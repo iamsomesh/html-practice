@@ -1,0 +1,48 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    
+  }
+body{
+    background-image: url(bg.png);
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    height: 100%; 
+    background-position: center;
+    background-size: cover;
+   
+   
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+#navbar {
+    background-color: antiquewhite;
+    color: blue;
+    
+}
+#navbar ul {
+    padding: 0%;
+    list-style: none;
+}
+#navbar li {
+    display: inline;
+}
+#navbar a {
+    color: brown;
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 50px;
+    text-align: center;
+}
+#main-footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-top: 50%;
+
+
+}
